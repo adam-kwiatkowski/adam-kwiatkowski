@@ -1,6 +1,7 @@
 ### Hello, I'm Adam 👋
 I'm an undergraduate CS student at Warsaw University of Technology
-
+- 🔭 I’m currently working on [MVAM](https://github.com/tomasz-beton/music-video-automaker)
+- 🌱 I’m currently learning AI and Web design
 <!--
 **adam-kwiatkowski/adam-kwiatkowski** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
